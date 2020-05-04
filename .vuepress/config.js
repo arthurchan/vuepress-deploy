@@ -1,10 +1,10 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "Arthur CHan",
     locales: {
         '/': {
-            lang: 'de-DE',
-            title: 'VuePress Deploy',
-            description: 'Vuepress with Netlify Deploy Button'
+            lang: 'en-CA',
+            title: 'Arthur Chan',
+            description: 'Financial consultant'
         }
     },
     head: [
